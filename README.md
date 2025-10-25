@@ -1,10 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working as a Data Engineer at TCS
-🤖 Passionate about Artificial Intelligence and Generative AI Applications
-💡 Skilled in designing data pipelines, ETL workflows, and cloud-based analytics solutions
-👯 Open to collaborate on AI, Data Engineering, and Cloud projects
-🌱 Currently exploring Microsoft Fabric, Azure Databricks, and GenAI integrations
-📫 Reach me at vishalgupta703782@gmail.com
+🔭 I’m currently working as a Data Engineer at TCS<br>
+🤖 Passionate about Artificial Intelligence and Generative AI Applications<br>
+💡 Skilled in designing data pipelines, ETL workflows, and cloud-based analytics solutions<br>
+👯 Open to collaborate on AI, Data Engineering, and Cloud projects<br>
+🌱 Currently exploring Microsoft Fabric, Azure Databricks, and GenAI integrations<r>
+📫 Reach me at vishalgupta703782@gmail.com<br>
 
 💬 Ask me about Azure Data Engineering, Databricks, AI integration.
 
