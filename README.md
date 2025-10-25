@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working  as Full Stack Developer<br>👯 I’m looking to collaborate on web  projects<br>🌱 How to reach me vishalgupta703782@gmail.com<br>💬 Ask me about coding. 
+🔭 I’m currently working as a Data Engineer at TCS
+🤖 Passionate about Artificial Intelligence and Generative AI Applications
+💡 Skilled in designing data pipelines, ETL workflows, and cloud-based analytics solutions
+👯 Open to collaborate on AI, Data Engineering, and Cloud projects
+🌱 Currently exploring Microsoft Fabric, Azure Databricks, and GenAI integrations
+📫 Reach me at vishalgupta703782@gmail.com
+
+💬 Ask me about Azure Data Engineering, Databricks, AI integration.
 
 
 ## 🌐 Socials:
